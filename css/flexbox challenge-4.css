@@ -17,10 +17,6 @@
     padding-bottom: 6rem;
 }
 
-.row__items {
-    /* padding-right: 3rem; */
-}
-
 .second-row {
     background-color: #222c2a;
 }
@@ -57,10 +53,6 @@
     padding-top: 5rem;
     color: #824936;
     text-align: center;
-}
-
-.primary-content__text-content {
-
 }
 
 .secondary-content__text-content {
