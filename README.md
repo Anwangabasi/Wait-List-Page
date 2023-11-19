@@ -1,1 +1,1 @@
-# Wait-List-Page
+# A Simple Layout Page
