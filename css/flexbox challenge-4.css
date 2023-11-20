@@ -10,7 +10,7 @@
 
 .row {
     display: flex;
-    width: 85%;
+    width: 90%;
     max-width: 1128px;
     margin: 0 auto;
     padding-top: 4rem;
@@ -27,7 +27,7 @@
 
 .hero{
     font-family: 'Roboto', sans-serif;
-    width: 70%;
+    width: 80%;
     padding: 8em 0;
     margin: auto;
 }
@@ -62,11 +62,16 @@
 .text-content {
     font-family: 'Roboto', sans-serif;
     font-size: 21px;
-    flex-basis: 35%;
+    flex-basis: 50%;
     margin-left: 50px;
-    border: 1px solid red;
 }
 
-img {
+.text-content img {
+    width: 100%;
     max-width: 100%;
+    object-fit: contain;
+}
+
+.secondary-content__text-content p {
+    padding-top: 1.5em;
 }
