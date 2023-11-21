@@ -64,6 +64,10 @@ section {
     color: #222c2a;
 }
 
+.first-row h2 {
+    text-align: center;
+}
+
 .second-row {
     background-color: #222c2a;
     /* color: #fff; */
